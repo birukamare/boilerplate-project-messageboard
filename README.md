@@ -1,17 +1,5 @@
 # [Anonymous Message Board](https://www.freecodecamp.org/learn/information-security/information-security-projects/anonymous-message-board)
 
-# practicing forking in git 
-Node.js is an open-source, cross-platform, JavaScript runtime environment that executes JavaScript code outside a web browser. Node.js lets developers use JavaScript to write command line tools and for server-side scripting—running scripts server-side to produce dynamic web page content before the page is sent to the user's web browser. 
-
-Express.js, or simply Express, is a web application framework for Node.js. It is designed for building web applications and APIs. It has been called the de facto standard server framework for Node.js. Express runs between the server created by Node.js and the frontend pages of a web application. Express also handles an application's routing.
-
-Chai is an assertion library, similar to Node's built-in assert. It makes testing much easier by giving you lots of assertions you can run against your code.
-
-HelmetJS is a type of middleware for Express-based applications that automatically sets HTTP headers to prevent sensitive information from unintentionally being passed between the server and client. While HelmetJS does not account for all situations, it does include support for common ones like Content Security Policy, XSS Filtering, and HTTP Strict Transport Security, among others. HelmetJS can be installed on an Express project from npm, after which each layer of protection can be configured to best fit the project.
-
-freeCodeCamp (also referred to as “Free Code Camp”) is a non-profit organization that consists of an interactive learning web platform, an online community forum, chat rooms, online publications and local organizations that intend to make learning web development accessible to anyone. Beginning with tutorials that introduce students to HTML, CSS and JavaScript, students progress to project assignments that they complete either alone or in pairs. Upon completion of all project tasks, students are partnered with other nonprofits to build web applications, giving the students practical development experience.
-
-
 Anonymous Message Board
 Build a full stack JavaScript app that is functionally similar to this: https://anonymous-message-board.freecodecamp.rocks/.
 
